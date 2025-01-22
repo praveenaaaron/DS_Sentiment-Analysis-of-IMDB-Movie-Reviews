@@ -10,6 +10,7 @@ Develop and evaluate an LSTM-based model to perform sentiment analysis on the IM
 ## Domain
 Natural Language Processing (NLP)
 
+## Tools and Technologies
 - Python 3.8 or higher
 - TensorFlow 2.x
 - Matplotlib
