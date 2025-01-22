@@ -10,6 +10,10 @@ Develop and evaluate an LSTM-based model to perform sentiment analysis on the IM
 ## Domain
 Natural Language Processing (NLP)
 
+- Python 3.8 or higher
+- TensorFlow 2.x
+- Matplotlib
+- NumPy
 ## Approach
 ### 1. Dataset Loading
 - Load the dataset using TensorFlow's built-in IMDB dataset.
