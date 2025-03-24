@@ -44,5 +44,3 @@ Natural Language Processing (NLP)
 - Test the model on custom reviews to validate performance.
 - Decode predictions into "positive" or "negative" sentiments.
 
-## Results
-The model should achieve good accuracy, precision, recall, and F1 score with minimum loss.
